@@ -8,3 +8,6 @@ This repository is designed to write down essential parts of the deep learning p
 
 - [[Image Cropping] Good View Hunting](https://github.com/coffeedjimmy/Skimming-Papers/blob/master/Good%20View%20Hunting.md)
 
+**NLP**
+
+- [[Attention] You May Not Need Attention](https://github.com/coffeedjimmy/Skimming-Papers/blob/master/You-May-Not-Need-Attention.md)
