@@ -11,3 +11,5 @@ This repository is designed to write down essential parts of the deep learning p
 **NLP**
 
 - [[Attention] You May Not Need Attention](https://github.com/coffeedjimmy/Skimming-Papers/blob/master/You-May-Not-Need-Attention.md)
+- [[TextCNN] What Does A TextCNN Learn?](https://github.com/coffeedjimmy/Skimming-Papers/blob/master/What-Does-A-TextCNN-Learn%3F.md)
+
